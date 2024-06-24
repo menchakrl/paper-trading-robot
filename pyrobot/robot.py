@@ -7,8 +7,6 @@ from datetime import datetime
 from datetime import time
 from datetime import timezone
 
-]
-
 class PyRobot():
 
     ''' 6/16/2024
